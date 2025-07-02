@@ -1,1 +1,1 @@
-
+Swasth AI is a simple AI-powered healthcare project designed to help with basic health monitoring and early disease detection. It uses machine learning models to analyze health data like symptoms and gives suggestions or risk predictions.
